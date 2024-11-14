@@ -1,0 +1,35 @@
+body {
+    background-color: #c1dcf6;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Georgia', serif;
+    margin-top: 40px;
+    color: #000000;
+}
+
+form {
+    font-family: Arial, sans-serif;
+}
+.label-lg {
+    display: block;
+    font-size: 1.4em; /* Aumenta el tamaño del texto */
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center; /* Centra el texto */
+}
+#entradaPokemon {
+    width: 40%;
+    max-width: 200px;
+    font-size: 1.2em;
+    padding: 10px;
+    border: 2px solid rgb(74, 19, 212);
+    border-radius: 5px;
+    margin: 0 auto; 
+}
+
+button{
+    margin-top: 10px;
+}
